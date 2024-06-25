@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently taking the November 2022 30 days of Microsoft Graph challenge.
 
-- 📫 aburns@amsty.com
+- 📫 powerupburns@gmail.com
 - 📫 andrew-burns@att.net
 
 <!---
